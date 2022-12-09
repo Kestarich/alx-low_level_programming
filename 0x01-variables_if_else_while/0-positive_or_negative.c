@@ -5,7 +5,7 @@
  * Main - print out if the condition is positive, zero or negative
  * Return - always return 0
  */
-int main(void) /* Description: main function */
+	int main(void) /* Description: main function */
 {
 	int n;
 	srand(time(0));
