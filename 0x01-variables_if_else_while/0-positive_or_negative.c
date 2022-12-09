@@ -3,11 +3,11 @@
 #include <time.h>
 /**
  * Main - print if the condition is positive, zero or negative
- * 
+ *
  * Return: Always(Success)
  */
 
-int main(void) /* Description: 'the program's description' */
+int main(void) /* Description:'the program's description' */
 {
 	int n;
 srand(time(0));
