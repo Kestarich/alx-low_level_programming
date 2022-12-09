@@ -7,7 +7,7 @@
  * Return - always return 0
  */
 
-	int main(void) /* Positive coonditions will be print out*\
+	int main(void) /* Description: main function */
 {
 	int n;
 
