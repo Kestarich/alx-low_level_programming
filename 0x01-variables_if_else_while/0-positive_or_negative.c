@@ -1,5 +1,5 @@
-#incude <stdio.h>
-#include i<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 /**
  * Main - print out if the condition is positive, zero or negative
