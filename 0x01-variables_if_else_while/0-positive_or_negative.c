@@ -6,7 +6,6 @@
  * Return - always return 0
  */
 	int main(void) /* Description: main function */
-
 {
 	int n;
 	srand(time(0));
@@ -18,10 +17,10 @@
 	else if (n == 0)	
 {
 	printf("%d is zero\n", n);
-}	
+}
 	else if  (n < 0)
 {
 	printf("%d is negative\n", n);
-}	
+}
 	return (0);
 }
