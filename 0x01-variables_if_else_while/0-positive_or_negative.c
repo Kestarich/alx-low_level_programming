@@ -7,7 +7,8 @@
  * Return: Always(Success)
  */
 
-int main(void) /*Description: main function*/
+int main(void) /* Description: main function */
+
 {
 	int n;
 srand(time(0));
