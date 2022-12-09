@@ -4,6 +4,8 @@
 /**
  * Main - print if the condition is positive, zero or negative
  *
+ * Description: 'the program's description'
+ *
  * Return: Always(Success)
  */
 
