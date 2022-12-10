@@ -3,11 +3,11 @@
 #include <stdio.h>
 /**
  *
- * * main -Prints a text according number
+ ** main -Prints a text according number
  *
- * * Return: Always (Success)
+ ** Return: Always (Success)
  *
- * */ 1-last_digit.c */
+ **/ last_digit.c */
 int main(void)
 {
 
