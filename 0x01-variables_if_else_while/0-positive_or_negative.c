@@ -5,7 +5,7 @@
  * Main - print if the condition is positive, zero or negative
  *
  * Return: Always(Success)
- */* 0-positive_or_negative */
+ */
 
 int main(void)
 {
