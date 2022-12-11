@@ -30,7 +30,7 @@ int main(void)
 
 	return (0);
 
-}I#include <stdio.h>
+}#include <stdio.h>
 
 
 
