@@ -3,12 +3,9 @@
 
 
 /**
- *
- *  *main - Entry point
- *
- *   *Return: Always 0 (Success/Correct)
- *
- *    */
+ ** main - Entry point
+ ** Return: Always 0 (Success/Correct)
+ */
 
 
 
