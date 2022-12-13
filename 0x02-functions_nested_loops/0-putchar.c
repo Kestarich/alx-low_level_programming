@@ -1,8 +1,8 @@
-#include "putchar.h"
+#include "main.h"
 
 /**
  *
- ** main-main block
+ ** main block
  ** Description:print -putchar in a new line
  ** Return:this program returns zero
  */
