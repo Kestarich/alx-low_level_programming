@@ -48,5 +48,4 @@ int print_sign(int n)
 		return (0);
 
 	}
-I
 }
