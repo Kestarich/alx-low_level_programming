@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 
-/**                                                                                  
- ** main-main block                                                                    
- ** Description:print out -putchar           
+/**
+ ** main-main block
+ ** Description:print out -putchar
  ** Return:this program returns zero
  **/
 
