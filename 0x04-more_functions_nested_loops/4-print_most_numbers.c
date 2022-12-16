@@ -14,10 +14,8 @@
 	{
 	if (i != 40 && i != 50)
 {
-	_putchar(i);
-
+_putchar(i);
 }
-
-}
-	_putchar('\n');
+{
+_putchar('\n');
 }
