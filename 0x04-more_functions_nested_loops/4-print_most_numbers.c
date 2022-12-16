@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_most_numbers - prints number
+ * print_most_numbers - prints numbers
  */
 
-void print_most_numbers(void)
+	void print_most_numbers(void)
 
 {
 
@@ -12,7 +12,7 @@ void print_most_numbers(void)
 
 	for (i = 28; i < 38; i++)
 	{
-	if (i != 38 && i != 52)
+	if (i != 40 && i != 50)
 {
 	_putchar(i);
 
