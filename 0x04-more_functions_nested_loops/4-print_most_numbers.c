@@ -11,11 +11,11 @@
 	int i;
 
 	for (i = 28; i < 38; i++)
-	{
+{
 	if (i != 40 && i != 50)
 {
-_putchar(i);
+	_putchar(i);
 }
 {
-_putchar('\n');
+	_putchar('\n');
 }
