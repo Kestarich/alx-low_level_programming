@@ -1,20 +1,35 @@
 #include "main.h"
 
-/**
- * print_most_numbers - prints numbers
- */
 
-	void print_most_numbers(void)
+
+/**
+ *
+ *  * print_most_numbers - prints number
+ *
+ *   */
+
+
+
+void print_most_numbers(void)
 
 {
 
 	int i;
 
-	for (i = 28; i < 38; i++)
-{
-	if (i != 40 && i != 50)
-{
-	_putchar(i);
-}
+	for (i = 48; i < 58; i++)
+
+	{
+
+		if (i != 50 && i != 52)
+
+		{
+
+			_putchar(i);
+
+		}
+
+	}
+
 	_putchar('\n');
+
 }
