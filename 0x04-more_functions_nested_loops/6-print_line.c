@@ -4,7 +4,6 @@
  * print_line - prints line
  * @n: param
  */
-
 void print_line(int n)
 
 {
