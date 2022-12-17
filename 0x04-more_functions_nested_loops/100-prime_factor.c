@@ -1,15 +1,9 @@
 #include <stdio.h>
 
-
-
 /**
- *
- *  * main - print prime
- *
- *   * Return: 0
- *
- *    */
-
+ ** main - print prime
+ ** Return: 0
+ **/
 
 
 int main(void)
