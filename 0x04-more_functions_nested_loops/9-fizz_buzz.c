@@ -7,7 +7,6 @@
 
 
 int main(void)
-
 {
 
 	int n;
@@ -40,7 +39,7 @@ int main(void)
 
 		{
 
-			printf(" Buzz");
+		printf(" Buzz");
 
 		}
 
@@ -48,7 +47,7 @@ int main(void)
 
 		{
 
-			printf(" %d", n);
+		printf(" %d", n);
 
 		}
 
@@ -57,5 +56,4 @@ int main(void)
 	printf("\n");
 
 	return (0);
-
 }
