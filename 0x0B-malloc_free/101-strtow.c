@@ -24,8 +24,7 @@ w++;
 }
 }
 return (w);
-}
-
+{
 /**
  ** strtow - splits a string into words
  ** @str: string to split
@@ -34,13 +33,12 @@ return (w);
  **/
 
 char **strtow(char *str)
-
 {
 char **matrix, *tmp;
 int i, k = 0, len = 0, words, c = 0, start, end;
 while (*(str + len))
 len++;
-words = count_word(str);
+words = count_words(str);
 if (words == 0)
 return (NULL);
 matrix = (char **) malloc(sizeof(char *) * (words + 1));
