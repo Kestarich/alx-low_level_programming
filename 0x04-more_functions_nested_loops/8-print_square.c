@@ -1,24 +1,29 @@
 #include "main.h"
 /**
-*more_numbers - prints numbers to 14
-*
-*Return: returns nothing
-*/
-void more_numbers(void)
-{
-int number1, number2;
+ * print_square - prints a square
+ * @size: print size
+ * Return: Always 0.
+ */
 
-for (number1 = 0; number1 < 10; number1++)
+void print_square(int size)
 {
-for (number2 = 0; number2 <= 14; number2++)
 
+int i;
+int k;
+
+if (size > 0)
 {
-if (number2 > 9)
+for (i = 0; i < size; i++)
 {
-_putchar((number2 / 10) + '0');
+for (k = 0; k < size; k++)
+{
+_putchar (35);
 }
-_putchar((number2 % 10) + '0');
+_putchar ('\n');
 }
-_putchar(10);
+}
+else
+{
+_putchar ('\n');
 }
 }
